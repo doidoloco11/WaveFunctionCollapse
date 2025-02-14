@@ -65,7 +65,7 @@ public class Window : GameWindow
         
         camera = new Camera();
         
-        GetTiles("../../../Imagens/Cat.png");
+        GetTiles("../../../Imagens/City.png");
 
         /*while (wfc())
         {
